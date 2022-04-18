@@ -1,0 +1,41 @@
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+@media  screen and (min-width: 400px) {
+}
+.about-me{
+background-color: rgb(171, 171, 199);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+width: 100%;
+}
+.about{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: aqua;
+    display: flex;
+    flex-direction: column;
+}
+.image{
+    border-image: inherit;
+    opacity: 50%;
+    width: 120%;
+    display: flex;
+}
+.about-me h1{
+    color: rgb(12, 53, 53);
+}
+.about p{
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+}
+.about-me image{
+    width: 100%;
+    align-items: center;
+}
+.logo{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.5rem;
+    color: rgb(9, 19, 19);}
