@@ -1,0 +1,40 @@
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+.about-content{
+    display: flex;
+    justify-content: space-evenly;
+}
+.eia{
+    border-radius: 20px;
+    background-color: aqua;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    justify-content: center;
+    text-align: center;
+    width: 30%;
+}
+.waste{
+   border-radius: 20px; 
+   background-color: aqua;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   justify-content: center;
+   text-align: center;
+   width: 30%;
+}
+.bioremediation{
+    border-radius: 20px;
+    background-color: aqua;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    justify-content: center;
+    text-align: center;
+    width: 30%;
+}
+.Services{
+color: aqua;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: bold;
+size: 5rem;
+background-color: black;
+}

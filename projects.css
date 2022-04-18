@@ -1,0 +1,15 @@
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+.my-projects{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font: 20px;
+}
+.projects{
+    width: 15%;
+    height: 20%;
+    justify-content: center;
+}
+
